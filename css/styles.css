@@ -1,0 +1,17 @@
+body { /* A css code used to style the web page ( this is called internal CSS) */
+    background-color: #FCF8E8;
+}
+hr { /* A css code used to style the horizontal line */
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #DF7861;
+    border-width: 6px;
+    width: 4%;
+}
+h1 {
+    color: #83af93;
+    font-family: cursive ;
+}
+h3 {
+    color: #DF7861;
+}
